@@ -1,0 +1,62 @@
+h1 {
+    color: royalblue;
+}
+
+#time {
+    margin-right: 25em;
+    text-align: right;
+}
+
+#data {
+    margin-bottom: 5em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    align-items: center;
+    display: flex;
+    margin-bottom: 1em;
+}
+
+textarea {
+    background-color: dodgerblue;
+    border-color: blue;
+    color: white;
+    height: 5em;
+    margin-right: 2em;
+    padding: 0.5em;
+    resize: none;
+}
+
+button {
+    background-color: darkorange;
+    border: solid;
+    border-color: coral;
+    color: white;
+    height: 2em;
+}
+
+button#add {
+    background-color: forestgreen;
+    border: solid;
+    border-color: green;
+    color: white;
+    height: 2em;
+    margin-left: 3em;
+}
+
+a {
+    background-color: lightskyblue;
+    color: black;
+    margin-right: 1em;
+    padding: 1em 2em;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: cyan;
+    color: white;
+}
